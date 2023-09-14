@@ -1,0 +1,6 @@
+Open Anaconda Prompt
+python HW4.py
+First Runs for Wine Dataset with stepsize=1
+Then runs for House Votes Dataset wiht stepsize=0.01
+You can modify the stepsize by searching for stepsize in the code.
+Prints out no of iterations,stepsize value,batches,training loss,testing loss,Accuracy and F1 score percentages to the cmd 
