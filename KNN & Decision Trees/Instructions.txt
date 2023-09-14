@@ -1,0 +1,6 @@
+You can run them through the Anaconda command prompt -
+python KNN.py
+python DecisionTree.py
+
+KNN - Training, Testing Accuracies print in the command prompt.
+DecisionTree - The Means, Standard Deviations, Accuracies are printed in the command prompt.
