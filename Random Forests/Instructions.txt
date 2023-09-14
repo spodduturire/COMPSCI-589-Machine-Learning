@@ -1,0 +1,12 @@
+You can run through the Anaconda command prompt -
+python RandomForest.py
+The stopping criteria I have added is min_samples_split=10. 
+The decision trees split only if they have atleast 10 instances in parent node.
+
+First runs for the House Votes dataset.
+Prints graphs to the command prompt.
+Prints Accuracy, Precision, Recall, F1 Score for all splits for all values of nTree to the command prompt.
+Also prints Final Accuracies, Precision, Recall, F1 Score.
+Then prints accuracies, precision, recall, f1 score for random forest for each nTree value.
+
+Nexts Runs Wine dataset and follows the same steps.
